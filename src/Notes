@@ -1,0 +1,8 @@
+install DEPENDENCY:
+npm i redux react-redux  redux-thunk
+
+
+redux-thunk : which is a piece of middleware for dispatching
+
+
+https://github.com/zalmoxisus/redux-devtools-extension#usage
